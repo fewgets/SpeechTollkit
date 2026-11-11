@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+python-multipart
+openai-whisper
+torch
+soundfile
+librosa
+numpy
+gTTS
+google-genai
+ollama
